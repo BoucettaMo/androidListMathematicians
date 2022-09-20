@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">FamousScientist</string>
+    <string-array name="biographyMathematicians">
+
+
+    <item> al-Khwārizmī, in full Muḥammad ibn Mūsā al-Khwārizmī, (born c. 780 —died c. 850),
+        Muslim mathematician and astronomer whose major works introduced Hindu-Arabic numerals and the concepts of
+        algebra into European mathematics. Latinized versions of his name and of his most famous book title live on
+        in the terms algorithm and algebra.
+
+Al-Khwārizmī lived in Baghdad, where he worked at the “House of Wisdom” (Dār al-Ḥikma) under the caliphate of
+        al-Maʾmūn. The House of Wisdom acquired and translated scientific and philosophic treatises, particularly
+        Greek, as well as publishing original research. Al-Khwārizmī’s work on elementary algebra,
+        Al-Kitāb al-mukhtaṣar fī ḥisāb al-jabr waʾl-muqābala (“The Compendious Book on Calculation by
+        Completion and Balancing”), was translated into Latin in the 12th century, from which the title and
+        term algebra derives. Algebra is a compilation of rules, together with demonstrations, for finding
+        solutions of linear and quadratic equations based on intuitive geometric arguments, rather than the
+        abstract notation now associated with the subject. Its systematic, demonstrative approach distinguishes
+        it from earlier treatments of the subject. It also contains sections on calculating areas and volumes of
+        geometric figures and on the use of algebra to solve inheritance problems according to proportions
+        prescribed by Islamic law. Elements within the work can be traced from Babylonian mathematics of the
+        early 2nd millennium BCE through Hellenistic, Hebrew, and Hindu treatises.
+
+
+    </item>
+        <item>
+        Euclid, Greek Eukleides, (flourished c. 300 BCE, Alexandria, Egypt),
+        the most prominent mathematician of Greco-Roman antiquity, best known for
+        his treatise on geometry, the Elements.
+Of Euclid’s life nothing is known except what the Greek philosopher
+        Proclus (c. 410–485 CE) reports in his “summary” of famous Greek
+        mathematicians. According to him, Euclid taught at Alexandria in the
+        time of Ptolemy I Soter, who reigned over Egypt from 323 to 285 BCE.
+        Medieval translators and editors often confused him with the philosopher
+        Eukleides of Megara, a contemporary of Plato about a century before, and therefore called him Megarensis. Proclus supported his date for Euclid by writing “Ptolemy once asked Euclid if there was not a shorter road to geometry than through the Elements, and Euclid replied that there was no royal road to geometry.” Today few historians challenge the consensus that Euclid was older
+        than Archimedes (c. 290–212/211 BCE).
+
+    </item>
+        <item>
+     Leonhard Euler, (born April 15, 1707, Basel, Switzerland—died September 18, 1783, St. Petersburg, Russia),
+    Swiss mathematician and physicist, one of the founders of pure mathematics. He not only made decisive and
+    formative contributions to the subjects of geometry, calculus, mechanics, and number theory but also developed
+    methods for solving problems in observational astronomy and demonstrated useful applications of mathematics in
+    technology and public affairs.
+
+</item>
+        <item>
+        Carl Friedrich Gauss, original name Johann Friedrich Carl Gauss, (born April 30, 1777, Brunswick
+        [Germany]—died February 23, 1855, Göttingen, Hanover), German mathematician, generally regarded as one of
+        the greatest mathematicians of all time for his contributions to number theory, geometry, probability theory,
+        geodesy, planetary astronomy, the theory of functions, and potential theory (including electromagnetism).
+
+Gauss was the only child of poor parents. He was rare among mathematicians in that he was a calculating prodigy,
+        and he retained the ability to do elaborate calculations in his head most of his life.
+        Impressed by this ability and by his gift for languages, his teachers and his devoted mother
+        recommended him to the duke of Brunswick in 1791, who granted him financial assistance to continue
+        his education locally and then to study mathematics at the University of Göttingen from 1795 to 1798.
+        Gauss’s pioneering work gradually established him as the era’s preeminent mathematician, first in the
+        German-speaking world and then farther afield, although he remained a remote and aloof figure.
+     </item>
+
+        <item> Nikolay Ivanovich Lobachevsky, (born Dec. 1 [Nov. 20, Old Style], 1792,
+            Nizhny Novgorod, Russia—died Feb. 24 [Feb. 12, Old Style], 1856, Kazan), Russian mathematician and
+            founder of non-Euclidean geometry, which he developed independently of János Bolyai and Carl Gauss.
+            (Lobachevsky’s first publication on this subject was in 1829, Bolyai’s in 1832; Gauss never published
+            his ideas on non-Euclidean geometry.)
+
+
+Lobachevsky grew up in a family of moderate means. Family relations, however, were evidently strained.
+            After 1791 his mother was effectively divorced from her husband, Ivan Lobachevsky.
+            Modern analysis of previously unknown archival materials shows that Lobachevsky’s father
+            was most likely Sergey Shebarshin (d. 1797), a graduate of Moscow State University who worked
+            as a surveyor and rose to the rank of titular councilor. After Shebarshin’s death the economic
+            circumstances of the family worsened. From 1802 Lobachevsky lived in Kazan, where he studied on
+            a government scholarship at the Gymnasium and after 1807 at Kazan State University, which
+            had been opened in the same building by Tsar Alexander I in 1804.
+
+   </item>
+        <item> Blaise Pascal, (born June 19, 1623, Clermont-Ferrand, France—died
+            August 19, 1662, Paris), French mathematician, physicist,
+            religious philosopher, and master of prose. He laid the
+            foundation for the modern theory of probabilities,
+            formulated what came to be known as Pascal’s principle of pressure,
+            and propagated a religious doctrine that taught the experience of
+            God through the heart rather than through reason.
+            The establishment of his principle of intuitionism had an
+            impact on such later philosophers as Jean-Jacques Rousseau
+            and Henri Bergson and also on the Existentialists.
+
+
+Pascal’s father, Étienne Pascal, was presiding judge of the tax court at
+            Clermont-Ferrand. His mother died in 1626, and in 1631 the
+            family moved to Paris. Étienne, who was respected as a
+            mathematician, devoted himself henceforth to the education of
+            his children. While his sister Jacqueline (born in 1625)
+            figured as an infant prodigy in literary circles,
+            Blaise proved himself no less precocious in mathematics.
+            In 1640 he wrote an essay on conic sections, Essai pour l
+            es coniques, based on his study of the now classical work of
+            Girard Desargues on synthetic projective geometry.
+            The young man’s work, which was highly successful in the
+            world of mathematics, aroused the envy of no less a personage
+            than the great French Rationalist and mathematician René Descartes.
+
+
+ </item>
+        <item>
+
+      Grigori Perelman, (born 1966, U.S.S.R.), Russian mathematician who was awarded—and declined—the Fields
+    Medal in 2006 for his work on the Poincaré conjecture and Fields medalist William Thurston’s geometrization
+    conjecture. In 2003 Perelman had left academia and apparently had abandoned mathematics. He was the first
+    mathematician ever to decline the Fields Medal.
+</item>
+
+        <item>
+    Poincaré, (born April 29, 1854, Nancy, France—died July 17, 1912, Paris), French mathematician, one of
+        the greatest mathematicians and mathematical physicists at the end of 19th century. He made a
+        series of profound innovations in geometry, the theory of differential equations, electromagnetism,
+        topology, and the philosophy of mathematics.
+    </item>
+
+        <item>
+    Siméon-Denis Poisson, (born June 21, 1781, Pithiviers, France—died April 25, 1840, Sceaux),
+    French mathematician known for his work on definite integrals, electromagnetic theory, and probability.
+</item>
+
+        <item>
+    Bernhard Riemann, in full Georg Friedrich Bernhard Riemann, (born September 17, 1826, Breselenz, Hanover
+    [Germany]—died July 20, 1866, Selasca, Italy), German mathematician whose profound and novel approaches to
+    the study of geometry laid the mathematical foundation for Albert Einstein’s theory of relativity.
+    He also made important contributions to the theory of functions, complex analysis, and number theory. </item>
+
+        <item>
+        Thales of Miletus, (born c. 624–620 BCE—died c. 548–545 BCE), philosopher renowned as one of the
+        legendary Seven Wise Men, or Sophoi, of antiquity. He is remembered primarily for his cosmology based on
+        water as the essence of all matter, with Earth a flat disk floating on a vast sea. The Greek historian
+        Diogenes Laërtius (flourished 3rd century CE), quoting Apollodorus of Athens (flourished 140 BCE),
+        placed the birth of Thales during the 35th Olympiad (apparently a transcription error;
+        it should read the 39th Olympiad, c. 624 BCE) and his death in the 58th Olympiad (548–545 BCE)
+        at the age of 78 (see philosophy, Western: The pre-Socratic philosophers).
+
+No writings by Thales survive, and no contemporary sources exist. Thus, his achievements are difficult
+        to assess. Inclusion of his name in the canon of the legendary Seven Wise Men led to his idealization,
+        and numerous acts and sayings, many of them no doubt spurious, were attributed to him,
+        such as “Know thyself” and “Nothing in excess.” According to the historian Herodotus (c. 484–c. 425 BCE),
+        Thales was a practical statesman who advocated the federation of the Ionian cities of the Aegean region.
+        The poet-scholar Callimachus (c. 305–c. 240 BCE) recorded a traditional belief that Thales advised
+        navigators to steer by the Little Bear (Ursa Minor) rather than by the Great Bear (Ursa Major),
+        both prominent constellations in the Northern Hemisphere. He is also said to have used his knowledge
+        of geometry to measure the Egyptian pyramids and to calculate the distance from shore of ships at sea.
+        Although such stories are probably apocryphal, they illustrate Thales’ reputation. The poet-philosopher
+        Xenophanes (c. 560–c. 478 BCE) claimed that Thales predicted the solar eclipse that stopped the battle
+        between King Alyattes of Lydia (reigned c. 610–c. 560 BCE) and King Cyaxares of Media (reigned 625–585 BCE),
+        evidently on May 28, 585. Modern scholars believe, however, that he could not possibly have had the
+        knowledge to predict accurately either the locality or the character of an eclipse. Thus, his feat was
+        apparently isolated and only approximate; Herodotus spoke of his foretelling the year only.
+        That the eclipse was nearly total and occurred during a crucial battle contributed considerably to
+        his exaggerated reputation as an astronomer.
+
+Thales has been credited with the discovery of five geometric theorems: (1) that a circle is bisected by its
+        diameter, (2) that angles in a triangle opposite two sides of equal length are equal, (3) that opposite
+        angles formed by intersecting straight lines are equal, (4) that the angle inscribed inside a semicircle
+        is a right angle, and (5) that a triangle is determined if its base and the two angles at the base are
+        given. His mathematical achievements are difficult to assess, however, because of the ancient practice of
+        crediting particular discoveries to men with a general reputation for wisdom.
+
+
+
+
+    </item>
+
+        <item>
+
+    Cédric Villani, (born October 5, 1973, Brive-la-Gaillarde, France), French mathematician and politician who
+        was awarded the Fields Medal in 2010 for his work in mathematical physics.
+    </item>
+
+    </string-array>
+
+    <string-array name="urlMathematicians">
+        <item> https://fr.wikipedia.org/wiki/Al-Khw%C3%A2rizm%C3%AE    </item>
+
+        <item> https://en.wikipedia.org/wiki/Euclid   </item>
+
+
+        <item> https://en.wikipedia.org/wiki/Leonhard_Euler
+</item>
+
+        <item>https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss </item>
+
+        <item> https://fr.wikipedia.org/wiki/Nikola%C3%AF_Ivanovitch_Lobatchevski </item>
+
+        <item>   https://fr.wikipedia.org/wiki/Blaise_Pascal  </item>
+        <item>
+    https://en.wikipedia.org/wiki/Grigori_Perelman </item>
+
+        <item>
+    https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9
+    </item>
+        <item>
+    https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson
+ </item>
+
+        <item>
+
+    https://en.wikipedia.org/wiki/Bernhard_Riemann
+</item>
+        <item>https://en.wikipedia.org/wiki/Thales_of_Miletus</item>
+
+        <item>
+    https://en.wikipedia.org/wiki/C%C3%A9dric_Villani
+</item>
+    </string-array>
+
+
+    <string name="image_width"> wrap_content </string>
+
+</resources>
